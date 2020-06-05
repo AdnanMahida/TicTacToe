@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="x_s_turn_tap_for_to_play">X \'s Turn\nTap for To play</string>
+</resources>
